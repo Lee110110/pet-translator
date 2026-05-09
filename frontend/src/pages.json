@@ -1,0 +1,108 @@
+{
+  "pages": [
+    {
+      "path": "pages/home/home",
+      "style": {
+        "navigationBarTitleText": "AI宠物翻译官"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/checkin/checkin",
+      "style": {
+        "navigationBarTitleText": "每日打卡"
+      }
+    },
+    {
+      "path": "pages/pet-create/pet-create",
+      "style": {
+        "navigationBarTitleText": "添加宠物"
+      }
+    },
+    {
+      "path": "pages/pet-profile/pet-profile",
+      "style": {
+        "navigationBarTitleText": "宠物档案"
+      }
+    },
+    {
+      "path": "pages/health-trends/health-trends",
+      "style": {
+        "navigationBarTitleText": "健康趋势"
+      }
+    },
+    {
+      "path": "pages/warning-center/warning-center",
+      "style": {
+        "navigationBarTitleText": "预警中心"
+      }
+    },
+    {
+      "path": "pages/warning-detail/warning-detail",
+      "style": {
+        "navigationBarTitleText": "预警详情"
+      }
+    },
+    {
+      "path": "pages/conversation/conversation",
+      "style": {
+        "navigationBarTitleText": "症状对话"
+      }
+    },
+    {
+      "path": "pages/vaccine-calendar/vaccine-calendar",
+      "style": {
+        "navigationBarTitleText": "疫苗日历"
+      }
+    },
+    {
+      "path": "pages/my-profile/my-profile",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/medical-summary/medical-summary",
+      "style": {
+        "navigationBarTitleText": "就医摘要"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "AI宠物翻译官",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F5F5F5"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#4CAF50",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-active.png"
+      },
+      {
+        "pagePath": "pages/health-trends/health-trends",
+        "text": "健康",
+        "iconPath": "static/tab-health.png",
+        "selectedIconPath": "static/tab-health-active.png"
+      },
+      {
+        "pagePath": "pages/my-profile/my-profile",
+        "text": "我的",
+        "iconPath": "static/tab-my.png",
+        "selectedIconPath": "static/tab-my-active.png"
+      }
+    ]
+  }
+}

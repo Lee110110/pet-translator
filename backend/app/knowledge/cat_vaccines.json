@@ -1,0 +1,46 @@
+[
+  {
+    "name": "猫三联疫苗(FVRCP)",
+    "type": "vaccine",
+    "schedule": [
+      {"age": "8周", "dose": "第1针"},
+      {"age": "12周", "dose": "第2针"},
+      {"age": "16周", "dose": "第3针"},
+      {"age": "1岁", "dose": "加强针"},
+      {"interval": "每年1次", "dose": "定期加强"}
+    ],
+    "protects": "猫瘟(猫泛白细胞减少症)、猫杯状病毒、猫疱疹病毒(猫鼻支)",
+    "notes": "核心疫苗，所有猫必须接种"
+  },
+  {
+    "name": "狂犬疫苗",
+    "type": "vaccine",
+    "schedule": [
+      {"age": "12周以上", "dose": "第1针"},
+      {"interval": "每年1次", "dose": "定期加强"}
+    ],
+    "protects": "狂犬病",
+    "notes": "法律要求必须接种"
+  },
+  {
+    "name": "体内驱虫",
+    "type": "deworming",
+    "schedule": [
+      {"age": "2周", "dose": "首次"},
+      {"interval": "每2周1次直到12周", "dose": "幼猫期"},
+      {"interval": "每月1次(6月龄内)", "dose": "青少年期"},
+      {"interval": "每3个月1次(成年)", "dose": "成年期"}
+    ],
+    "protects": "蛔虫、钩虫、绦虫等",
+    "notes": "常用药：Drontal(拜耳)、Milbemax"
+  },
+  {
+    "name": "体外驱虫",
+    "type": "deworming",
+    "schedule": [
+      {"interval": "每月1次", "dose": "常规预防"}
+    ],
+    "protects": "跳蚤、蜱虫",
+    "notes": "常用药：Frontline(福来恩)、Advantage(大宠爱)"
+  }
+]

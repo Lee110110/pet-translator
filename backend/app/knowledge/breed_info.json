@@ -1,0 +1,65 @@
+[
+  {
+    "breed": "英国短毛猫(英短)",
+    "common_diseases": ["肥厚性心肌病(HCM)", "慢性肾病", "多囊肾病(PKD)"],
+    "personality": "温和安静，不太活跃",
+    "activity_level": "中低",
+    "weight_range": "4-8kg",
+    "lifespan": "12-20年",
+    "notes": "英短容易肥胖，需注意体重管理；定期心脏检查很重要"
+  },
+  {
+    "breed": "布偶猫",
+    "common_diseases": ["肥厚性心肌病(HCM)", "多囊肾病(PKD)"],
+    "personality": "温柔粘人，非常活跃",
+    "activity_level": "中高",
+    "weight_range": "4-9kg",
+    "lifespan": "12-17年",
+    "notes": "布偶猫有HCM遗传倾向，建议定期心脏超声"
+  },
+  {
+    "breed": "波斯猫",
+    "common_diseases": ["多囊肾病(PKD)", "慢性肾病", "呼吸问题(扁脸)"],
+    "personality": "安静优雅，不太活跃",
+    "activity_level": "低",
+    "weight_range": "3-7kg",
+    "lifespan": "12-17年",
+    "notes": "扁脸品种易有呼吸和眼部问题，需定期清理"
+  },
+  {
+    "breed": "缅因猫",
+    "common_diseases": ["肥厚性心肌病(HCM)", "脊柱问题(SMA)"],
+    "personality": "友好温顺，喜欢水",
+    "activity_level": "中高",
+    "weight_range": "5-12kg",
+    "lifespan": "10-15年",
+    "notes": "大型猫种，HCM遗传测试很重要"
+  },
+  {
+    "breed": "暹罗猫",
+    "common_diseases": ["哮喘", "心理压力相关疾病"],
+    "personality": "话多活跃，非常粘人",
+    "activity_level": "高",
+    "weight_range": "3-5kg",
+    "lifespan": "15-20年",
+    "notes": "暹罗猫非常需要陪伴，长时间独处容易出现心理问题"
+  },
+  {
+    "breed": "中华田园猫(土猫)",
+    "common_diseases": ["无特定遗传病", "慢性肾病(老年)"],
+    "personality": "因个体差异大",
+    "activity_level": "中",
+    "weight_range": "3-6kg",
+    "lifespan": "12-18年",
+    "notes": "基因多样性好，遗传病较少，但老年后肾病仍常见"
+  },
+  {
+    "breed": "美国短毛猫(美短)",
+    "common_diseases": ["肥厚性心肌病(HCM)"],
+    "personality": "温和活跃，适应力强",
+    "activity_level": "中",
+    "weight_range": "3-6kg",
+    "lifespan": "15-20年",
+    "notes": "相对健康的品种，注意心脏检查"
+  }
+]

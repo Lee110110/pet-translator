@@ -1,0 +1,74 @@
+[
+  {
+    "disease": "慢性肾病",
+    "common_breeds": ["所有品种", "波斯猫", "英短"],
+    "risk_age": "7岁以上高发",
+    "key_symptoms": ["饮水量增加", "食量减少", "体重下降", "精神萎靡", "呕吐"],
+    "description": "猫最常见的老年病，早期症状不明显，定期体检可早发现",
+    "required_tests": ["血常规", "生化(肌酐、尿素氮、SDMA)", "尿检"],
+    "urgency": "建议48小时内就诊"
+  },
+  {
+    "disease": "脂肪肝(肝脂质沉积症)",
+    "common_breeds": ["所有品种", "肥胖猫更高发"],
+    "risk_age": "任何年龄",
+    "key_symptoms": ["拒食超过3天", "黄疸", "呕吐", "精神萎靡"],
+    "description": "猫不进食超过3天就可能触发，肝脏脂肪堆积，可致命",
+    "required_tests": ["生化(ALT、ALP、胆红素)", "B超"],
+    "urgency": "立即就医"
+  },
+  {
+    "disease": "尿路堵塞(FUS/FLUTD)",
+    "common_breeds": ["所有品种", "公猫远高于母猫"],
+    "risk_age": "1-10岁",
+    "key_symptoms": ["频繁进出猫砂盆", "尿少或无尿", "排尿时嚎叫", "舔生殖器"],
+    "description": "公猫尿路堵塞24小时内可致命，是真正的急诊",
+    "required_tests": ["B超", "尿检", "血常规"],
+    "urgency": "立即就医(紧急)"
+  },
+  {
+    "disease": "甲状腺功能亢进",
+    "common_breeds": ["所有品种"],
+    "risk_age": "8岁以上",
+    "key_symptoms": ["食量增加但体重下降", "活动量增加", "饮水量增加", "呕吐", "心率快"],
+    "description": "老年猫常见内分泌疾病，吃得多反而瘦是典型表现",
+    "required_tests": ["T4甲状腺激素", "生化", "尿检"],
+    "urgency": "建议1周内就诊"
+  },
+  {
+    "disease": "糖尿病",
+    "common_breeds": ["所有品种", "肥胖猫更高发"],
+    "risk_age": "5岁以上",
+    "key_symptoms": ["饮水量大增", "尿量大增", "食量增加但体重下降", "后肢无力"],
+    "description": "肥胖猫是高危群体，症状和肾病相似需验血区分",
+    "required_tests": ["血糖", "果糖胺", "尿检"],
+    "urgency": "建议1周内就诊"
+  },
+  {
+    "disease": "肥厚性心肌病(HCM)",
+    "common_breeds": ["缅因猫", "布偶猫", "英短", "波斯猫"],
+    "risk_age": "任何年龄，中老年高发",
+    "key_symptoms": ["呼吸急促", "运动不耐受", "食欲下降", "后肢瘫痪(血栓)"],
+    "description": "某些品种有遗传倾向，可能突然发病，心脏超声是确诊手段",
+    "required_tests": ["心脏超声", "NT-proBNP", "胸片"],
+    "urgency": "呼吸异常时立即就医"
+  },
+  {
+    "disease": "胃肠炎",
+    "common_breeds": ["所有品种"],
+    "risk_age": "任何年龄",
+    "key_symptoms": ["呕吐", "腹泻", "食欲下降", "腹痛"],
+    "description": "常见但需排除更严重疾病，持续2天以上需就医",
+    "required_tests": ["血常规", "粪检", "生化"],
+    "urgency": "持续2天以上建议就医"
+  },
+  {
+    "disease": "猫下泌尿道疾病(FLUTD)",
+    "common_breeds": ["所有品种"],
+    "risk_age": "1-10岁",
+    "key_symptoms": ["尿频", "血尿", "乱尿", "排尿困难", "舔生殖器"],
+    "description": "涵盖尿路感染、膀胱炎、结石等多种情况，需区分",
+    "required_tests": ["尿检", "B超", "X光"],
+    "urgency": "公猫排尿困难立即就医，母猫建议48小时内就医"
+  }
+]
